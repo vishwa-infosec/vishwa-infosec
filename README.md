@@ -12,7 +12,7 @@
 
 ## **Reach me on:**
 <a href="https://www.linkedin.com/in/vishwa-s-270a5b219/">
-  <img src="https://static-00.iconduck.com/assets.00/linkedin-icon-1024x1024-z5dvl47c.png" style="max-width: 10%;">
+  <img src="https://static-00.iconduck.com/assets.00/linkedin-icon-1024x1024-z5dvl47c.png" style="max-width: 10%">
 </a>
 <a href="https://instagram.com/vishwa17__">
 <img src="https://camo.githubusercontent.com/c9dacf0f25a1489fdbc6c0d2b41cda58b77fa210a13a886d6f99e027adfbd358   /68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f696e7374616772616d2e737667" width="125" title="Instagram" data-canonical-src="https://edent.github.io/SuperTinyIcons/images/svg/instagram.svg" style="max-width: 10%;"></a>
