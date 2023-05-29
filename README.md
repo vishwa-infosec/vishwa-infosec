@@ -20,9 +20,9 @@
 
 ###
 
-- 🌱 I’m currently learning Python, FLutter, Javascript, Android App Development using Kotlin
+- 🌱 I’m Cyber Security Enthusiast learning new topics each day to develop my knowledge
 - 👯 I’m looking to collaborate with Ethical Hacking, Python, Android and web app development
-- 💬 Ask me anything related to Cyber Security, Android App Development, Python
+- 💬 Ask me anything related to Cyber Security, Python
 
 <br>
 
