@@ -21,8 +21,8 @@
 ###
 
 - 🌱 I’m Cyber Security Enthusiast learning new topics each day to develop my knowledge
-- 👯 I’m looking to collaborate with Ethical Hacking, Python, Android and web app development
-- 💬 Ask me anything related to Cyber Security, Python
+- 👯 I’m looking to collaborate with Ethical Hacking and Python
+- 💬 Ask me anything related to Cyber Security, Python, VAPT
 
 <br>
 
