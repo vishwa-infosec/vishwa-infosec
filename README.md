@@ -4,7 +4,7 @@
   
 </h1>
 
-# 🌊வணக்கம், Na Vishwa — a cybersecurity hacker and chess tactician 
+# 🌊வணக்கம், ഞാൻ Vishwa — a cybersecurity hacker and chess tactician 
 
 ⚡Dodging malware by day, dodging pawns by night. ⚡ <br>
 🎯Precision is my vibe — a specialist, a perfectionist, and proudly irreplaceable (**sorry, AI**).  <br>
