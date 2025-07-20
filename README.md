@@ -89,23 +89,14 @@ Mail me for collabs and ideas
 
 ---
 
-### 🔝 Top Contributed Repo
 
-![](https://github-contributor-stats.vercel.app/api?username=vishwa-infosec&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
----
 
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=vishwa-infosec&icon=0&color=0"/>
-</p>
 
-<details>
   <summary>💬 Fun Chess Secret</summary>
 
   > “When you see a good move, look for a better one.” — Emanuel Lasker  
   > Just like in cybersecurity, one move ahead means *everything*.
-
-</details>
 
 <!-- Profile crafted for a cyber defender who loves to play chess. Fork and take your own shot! -->
 
