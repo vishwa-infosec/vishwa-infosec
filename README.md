@@ -1,24 +1,113 @@
-# 💫 About Me:
-Hi 👋, I'm Vishwa!  <br>Cyber Security Enthusiast | Ethical Hacking & Python | Cyber Forensics  <br><br>🔍 Cybersecurity Fanatic — Always diving deep into new security concepts and enhancing my knowledge.  <br>💡 Zero Trust Advocate — Completed a massive final-year project on **Zero Trust Network Access**!  <br>📜 Certified & Experienced— Earned multiple cybersecurity certifications and love sharing knowledge.  <br>🎓 Mastering Cyber Forensics — Nearing completion of my Master's in Cyber Forensics.  <br>💬 Ask Me Anything — Cyber Security, Python, VAPT — Let's chat!  <br><br>🏆 Things I Love<br>Geopolitics & Cyber Warfare — Because cybersecurity isn't just tech, it's strategy.  <br>Teaching & Mentorship — Knowledge grows when shared!  <br>Football & Chess— Used to play a lot (1200-rated chess player) ⚽♟️  <br><br>🚀 Open to collaborations in Ethical Hacking, Python, and anything that challenges cybersecurity norms! <br>Actually anything! because Cybersecuity is an ocean of everything <br>
+<!-- Banner -->
+<!--<p align="center">
+  <img src="https://i.pinimg.com/736x/10/83/f3/1083f3222b0c3ba30985afba811b24bc.jpg" alt="Hacker Chess Banner" width="95%" height="10%">
+</p>-->
 
+<h1 align="center">
+  👀 Vishwa | Hacker | Chess Enthusiast ♟️
+</h1>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vishwa-s-cybersec) 
+---
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=plastic&logo=windows-terminal&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=plastic&logo=gnu-bash&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=plastic&logo=markdown&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=plastic&logo=firebase&logoColor=ffcd34) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=plastic&logo=microsoft%20sql%20server&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=plastic&logo=flask&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=plastic&logo=anaconda&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=plastic&logo=bootstrap&logoColor=white) ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=plastic&logo=react) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=plastic&logo=django&logoColor=white) ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=plastic&logo=django&logoColor=white&color=ff1709&labelColor=gray) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=plastic&logo=express&logoColor=%2361DAFB) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=plastic&logo=Flutter&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=plastic&logo=JSON%20web%20tokens) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=plastic&logo=npm&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=plastic&logo=nodemon&logoColor=%BBDEAD) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=plastic&logo=vuedotjs&logoColor=%234FC08D) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=plastic&logo=apache-tomcat&logoColor=black) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=plastic&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=plastic&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=plastic&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=plastic&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=plastic&logo=TensorFlow&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=plastic&logo=cisco&logoColor=black) ![OpenAPI Specification](https://img.shields.io/badge/openapiinitiative-%23000000.svg?style=plastic&logo=openapiinitiative&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=plastic&logo=unity&logoColor=white) ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=plastic&logo=unrealengine&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=plastic&logo=swagger&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=plastic&logo=Raspberry-Pi)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=vishwa-infosec&theme=cobalt&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=vishwa-infosec&theme=cobalt&hide_border=false)<br/>
+## ♟️ About Me
+  
+*Hi, I’m Vishwa — A hacker, part chess tactician,*  
+*living at the intersection of **cybersecurity defense** and **strategic games**.*
+
+- 🕵️‍♂️ **Cybersecurity Fanatic** — Deep explorer of adversarial thinking, tools, and blue team/CTF tactics.
+- 💡 **Zero Trust Advocate** — Designed a full-scale Zero Trust Network Access project.
+- 👨‍🎓 **Forensics Pro-in-Training** — Wrapping up my master's in Cyber Forensics.
+- 📜 **Certified & Experienced** — From hands-on hacking to mentoring, always riding the learning curve.
+- 💬 **Ask Me Anything:** CyberSec, Python, VAPT, or the latest infosec drama!
+
+---
+
+## ⚔️ Passions
+
+- **Geopolitics & Cyber Warfare** — Security = strategy + psychology + code.
+- **Mentoring & Teaching** — *Every king was once a pawn.*
+- **Football & Chess** — 1200-rated and always up for a blitz clash. ⚽♟️
+
+---
+
+## 🌟 Ready to Collaborate
+
+Open to all things **Ethical Hacking, Python scripting, and cybersecurity mischief** —  
+*because real progress means breaking, not just building.*
+
+---
+
+## 🌐 Find Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vishwa-s-cybersec)
+
+---
+
+## 💻 Tech Stack
+
+<div align="center">
+  <img src="https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54"/>
+  <img src="https://img.shields.io/badge/bash_script-%23121011.svg?style=plastic&logo=gnu-bash&logoColor=white"/>
+  <img src="https://img.shields.io/badge/DJANGO-REST-ff1709?style=plastic&logo=django&logoColor=white&color=ff1709&labelColor=gray"/>
+  <img src="https://img.shields.io/badge/Flask-%23000.svg?style=plastic&logo=flask&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB"/>
+  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=plastic&logo=windows-terminal&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=plastic&logo=github&logoColor=white"/>
+</div>
+
+<details>
+  <summary>🛠️ Full Toolbox</summary>
+  
+  <!-- Listing all listed badges from the original content, grouped for visual clarity -->
+  <div>
+    <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=plastic&logo=bootstrap&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Plotly-%233F4F75.svg?style=plastic&logo=plotly&logoColor=white"/>
+    <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=plastic&logo=TensorFlow&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Unity-%23000000.svg?style=plastic&logo=unity&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Vue.js-%2335495e.svg?style=plastic&logo=vuedotjs&logoColor=%234FC08D"/>
+    <!-- Add more as you like -->
+  </div>
+</details>
+
+---
+
+## ⏱️ GitHub Stats
+
+| ![](https://github-readme-stats.vercel.app/api?username=vishwa-infosec&theme=cobalt&hide_border=false&include_all_commits=true&count_private=true) | ![](https://nirzak-streak-stats.vercel.app/?user=vishwa-infosec&theme=cobalt&hide_border=false) |
+| :--: | :--: |
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=vishwa-infosec&theme=cobalt&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+---
+
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=vishwa-infosec&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=vishwa-infosec&theme=radical&no-frame=false&no-bg=true&margin-w=4" width="90%"/>
+</p>
+
+---
 
 ### 🔝 Top Contributed Repo
+
 ![](https://github-contributor-stats.vercel.app/api?username=vishwa-infosec&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=vishwa-infosec&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=vishwa-infosec&icon=0&color=0"/>
+</p>
+
+<details>
+  <summary>💬 Fun Chess Secret</summary>
+
+  > “When you see a good move, look for a better one.” — Emanuel Lasker  
+  > Just like in cybersecurity, one move ahead means *everything*.
+
+</details>
+
+<!-- Profile crafted for a cyber defender who loves to play chess. Fork and take your own shot! -->
+
+
