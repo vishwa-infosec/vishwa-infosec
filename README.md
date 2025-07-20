@@ -1,75 +1,74 @@
-<!-- Banner -->
-<!--<p align="center">
-  <img src="https://i.pinimg.com/736x/10/83/f3/1083f3222b0c3ba30985afba811b24bc.jpg" alt="Hacker Chess Banner" width="95%" height="10%">
-</p>-->
 
-<h1 align="center">
-  👀 Vishwa | Hacker | Chess Enthusiast ♟️
+<h1>
+   Здравствуй🙋🏼‍♂️
+  
 </h1>
 
----
+# 🌊வணக்கம், Na Vishwa — a cybersecurity hacker and chess tactician 
 
-## ♟️ About Me
-  
-*Hi, I’m Vishwa — A hacker, part chess tactician,*  
-*living at the intersection of **cybersecurity defense** and **strategic games**.*
-
-- 🕵️‍♂️ **Cybersecurity Fanatic** — Deep explorer of adversarial thinking, tools, and blue team/CTF tactics.
-- 💡 **Zero Trust Advocate** — Designed a full-scale Zero Trust Network Access project.
-- 👨‍🎓 **Forensics Pro-in-Training** — Wrapping up my master's in Cyber Forensics.
-- 📜 **Certified & Experienced** — From hands-on hacking to mentoring, always riding the learning curve.
-- 💬 **Ask Me Anything:** CyberSec, Python, VAPT, or the latest infosec drama!
+⚡Dodging malware by day, dodging pawns by night. ⚡ <br>
+🎯Precision is my vibe — a specialist, a perfectionist, and proudly irreplaceable (**sorry, AI**).  <br>
+Ask me anything: CyberSec, Python, VAPT, Geopolitics,Chess Tactics or today’s hot infosec gossip
 
 ---
 
-## ⚔️ Passions
-
-- **Geopolitics & Cyber Warfare** — Security = strategy + psychology + code.
-- **Mentoring & Teaching** — *Every king was once a pawn.*
-- **Football & Chess** — 1200-rated and always up for a blitz clash. ⚽♟️
-
----
-
-## 🌟 Ready to Collaborate
+## 🪶Got An Idea?
 
 Open to all things **Ethical Hacking, Python scripting, and cybersecurity mischief** —  
 *because real progress means breaking, not just building.*
+Mail me for collabs and ideas 
+<br>
+<a href="mailto:vishwapolo@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+
 
 ---
 
 ## 🌐 Find Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vishwa-s-cybersec)
+ <div align="center">
+<a href="https://www.linkedin.com/in/vishwa-s-cybersec/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+<a href="https://leetcode.com/u/vishwa17__/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
+  </a>
+<a href="https://app.hackthebox.com/profile/vishwa1709" target="_blank">
+    <img src="https://img.shields.io/badge/Hack%20The%20Box-11141F?style=for-the-badge&logo=hackthebox&logoColor=9FEF00" alt="Hack The Box"/>
+  </a>
+ 
+  <a href="https://lichess.org/@/vishwa1709" target="_blank">
+    <img src="https://img.shields.io/badge/Lichess-FFFFFF?style=for-the-badge&logo=lichess&logoColor=010101" alt="Lichess"/>
+  </a>
+</div>
+
 
 ---
-
 ## 💻 Tech Stack
 
 <div align="center">
-  <img src="https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54"/>
-  <img src="https://img.shields.io/badge/bash_script-%23121011.svg?style=plastic&logo=gnu-bash&logoColor=white"/>
-  <img src="https://img.shields.io/badge/DJANGO-REST-ff1709?style=plastic&logo=django&logoColor=white&color=ff1709&labelColor=gray"/>
-  <img src="https://img.shields.io/badge/Flask-%23000.svg?style=plastic&logo=flask&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB"/>
-  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=plastic&logo=windows-terminal&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=plastic&logo=github&logoColor=white"/>
-</div>
 
-<details>
-  <summary>🛠️ Full Toolbox</summary>
-  
-  <!-- Listing all listed badges from the original content, grouped for visual clarity -->
-  <div>
-    <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=plastic&logo=bootstrap&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Plotly-%233F4F75.svg?style=plastic&logo=plotly&logoColor=white"/>
-    <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=plastic&logo=TensorFlow&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Unity-%23000000.svg?style=plastic&logo=unity&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Vue.js-%2335495e.svg?style=plastic&logo=vuedotjs&logoColor=%234FC08D"/>
-    <!-- Add more as you like -->
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/>
+  <img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash"/>
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
+  <img src="https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+  <img src="https://img.shields.io/badge/Windows_Terminal-4D4D4D?style=for-the-badge&logo=windows-terminal&logoColor=white" alt="Windows Terminal"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+
+
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
+  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" alt="Plotly"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
+  <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity"/>
+  <img src="https://img.shields.io/badge/Vue.js-35495e?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" alt="Vue.js"/>
+
   </div>
 </details>
+
 
 ---
 
