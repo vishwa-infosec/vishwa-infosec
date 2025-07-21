@@ -1,6 +1,6 @@
 
 
-# Здравствуй🙋🏼‍♂️ Im Vishwa
+# Здравствуй🪻 Im Vishwa
 ⚡Dodging malware by day, dodging pawns by night. ⚡ <br>
 🎯Precision is my vibe — a specialist, a perfectionist, and proudly irreplaceable (**sorry, AI**).  <br>
 Ask me anything: CyberSec, Python, VAPT, Geopolitics,Chess Tactics or today’s hot infosec gossip
