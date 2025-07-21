@@ -1,31 +1,69 @@
 
-<h1>
-   Здравствуй🙋🏼‍♂️
-  
-</h1>
 
-# 🌊வணக்கம், ഞാൻ Vishwa — a cybersecurity hacker and chess tactician 
-
+# Здравствуй🙋🏼‍♂️ Im Vishwa
 ⚡Dodging malware by day, dodging pawns by night. ⚡ <br>
 🎯Precision is my vibe — a specialist, a perfectionist, and proudly irreplaceable (**sorry, AI**).  <br>
 Ask me anything: CyberSec, Python, VAPT, Geopolitics,Chess Tactics or today’s hot infosec gossip
 
----
+## I Have worked with 
 
+<p align="center"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> 
+<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> 
+   <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> 
+    <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
+       <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
+   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
+   <a href="https://materializecss.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="40" height="40"/> </a> 
+   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> 
+            <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> <a href="https://www.wxwidgets.org/" target="_blank" rel="noreferrer"> 
+               <img src="https://upload.wikimedia.org/wikipedia/commons/b/bb/WxWidgets.svg" alt="wx_widgets" width="40" height="40"/> </a>
+</p>
+
+---
+<h2>🛠️ Some of my experiments</h2>
+<table border="1">
+  <tr>
+    <th>Project</th>
+    <th>Description</th>
+    
+  </tr>
+  <tr>
+    <td>ZTNA</td>
+    <td>Zero Trust network access</td>
+    
+  </tr>
+  <tr>
+    <td>MAC Changer</td>
+    <td>Program to change the MAC address</td>
+    
+  </tr>
+   <tr>
+    <td>Secure-Email-Communication Public</td>
+    <td>It is an mail encryption system allows user to encrypt, decrypt and generate keys.</td>
+   
+  </tr>
+  
+</table>
+<h3>Git Stats 📈</h3>
+
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=vishwa-infosec&show_icons=true&locale=en&theme=transparent" alt="git" /></p>
+
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=vishwa-infosec&show_icons=true&locale=en&layout=compact&theme=radical" alt="vishwa-infosec" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vishwa-infosec&theme=dark" alt="vishwa-infosec" /></p>
 ## 🪶Got An Idea?
 
 Open to all things **Ethical Hacking, Python scripting, and cybersecurity mischief** —  
 *because real progress means breaking, not just building.*
 Mail me for collabs and ideas 
 <br>
-<a href="mailto:vishwapolo@gmail.com" target="_blank">
+<a href="mailto:vishwainfosec@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
 
-
----
-
-## 🌐 Find Me
+## Where can you find me 🧐
 
  <div align="center">
 <a href="https://www.linkedin.com/in/vishwa-s-cybersec/" target="_blank">
@@ -43,60 +81,7 @@ Mail me for collabs and ideas
   </a>
 </div>
 
-
 ---
-## 💻 Tech Stack
-
-<div align="center">
-
-  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/>
-  <img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash"/>
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
-  <img src="https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
-  <img src="https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
-  <img src="https://img.shields.io/badge/Windows_Terminal-4D4D4D?style=for-the-badge&logo=windows-terminal&logoColor=white" alt="Windows Terminal"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-
-
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
-  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" alt="Plotly"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
-  <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity"/>
-  <img src="https://img.shields.io/badge/Vue.js-35495e?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" alt="Vue.js"/>
-
-  </div>
-</details>
-
-
----
-
-## ⏱️ GitHub Stats
-
-| ![](https://github-readme-stats.vercel.app/api?username=vishwa-infosec&theme=cobalt&hide_border=false&include_all_commits=true&count_private=true) | ![](https://nirzak-streak-stats.vercel.app/?user=vishwa-infosec&theme=cobalt&hide_border=false) |
-| :--: | :--: |
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=vishwa-infosec&theme=cobalt&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vishwa-infosec&theme=radical&no-frame=false&no-bg=true&margin-w=4" width="90%"/>
-</p>
-
----
-
-
-
-
-
-  <summary>💬 Fun Chess Secret</summary>
-
-  > “When you see a good move, look for a better one.” — Emanuel Lasker  
-  > Just like in cybersecurity, one move ahead means *everything*.
 
 <!-- Profile crafted for a cyber defender who loves to play chess. Fork and take your own shot! -->
 
