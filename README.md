@@ -53,7 +53,7 @@ Ask me anything: CyberSec, Python, VAPT, Geopolitics,Chess Tactics or today’s 
 
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=vishwa-infosec&show_icons=true&locale=en&layout=compact&theme=radical" alt="vishwa-infosec" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vishwa-infosec&theme=dark" alt="vishwa-infosec" /></p>
-## 🪶Got An Idea?
+<h3>Got An Idea?</h3>
 
 Open to all things **Ethical Hacking, Python scripting, and cybersecurity mischief** —  
 *because real progress means breaking, not just building.*
